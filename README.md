@@ -4,6 +4,7 @@
 
 
 ## 全文逻辑导览图
+https://aicity.blog.csdn.net/article/details/149282848?spm=1011.2415.3001.10575&sharefrom=mp_manage_link
 
 ## 一、引言：为什么我要在 Windows 上做 AI？
 我们总是被告知：做 AI 开发，最好用 Linux。Python 依赖、GPU 驱动、Docker 容器、深度学习框架……几乎所有教程、所有部署手册，都默认你在一个纯净的 Linux 系统中操作。
